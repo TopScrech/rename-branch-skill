@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rename Branch"
+  short_description: "Rename the current Git branch locally and remotely"
+  default_prompt: "Use $rename-branch to rename the current Git branch locally and remotely"
